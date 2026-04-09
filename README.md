@@ -1,6 +1,6 @@
 🔐 DL Hunter – Endpoint DLP Agent (AI Data Leakage Prevention)
 
-Project Codename: DL Hunter (Data Loss Hunter)
+Proof of Concept (PoC) for endpoint-level data loss prevention in modern AI-driven workflows.
 
 DL Hunter is a host-based Data Loss Prevention (DLP) agent designed to detect and mitigate sensitive data exposure at the endpoint level — particularly in modern workflows involving browsers and AI tools.
 
